@@ -1,7 +1,7 @@
-# Python-mentorias
+# Mentorías de Python
 Repositorio con exploración de datos 
 
-## Bienvenido!
+##  ¡Bienvenido!
 
 Si esta es tu primera vez trabajando con Python, te recomiendo que primero revises este tutorial. El tutorial está en Inglés en este momento. Si esto representa una barrera busca ayuda en tu equipo para traducir mientras que el contenido es traducido. 
 
