@@ -41,7 +41,7 @@ Tu reto es usar lo que aprendiste para limpiar, manipular y visualizar los datos
 3. Crea una rama para tu trabajo, publica tu rama y crea un pull request https://abi.gitbook.io/net-core/tu-primer-aplicacion/integrando-tu-codigo-fuente-a-github/3.10.1-creando-ramas-en-github 
 4. Asegúrate de crear una rama por "feature" - un feature es un nuevo cambio al código que cambia o añade funcionalidad. 
       
-Por ejemplo: un feature puede ser una función o coleción de funciones que limpian los datos, otro feature es una función o colección de funciones que visualizan los datos, y otro feature es una función o colección de funciones que implementan un sistema de aprendizaje automático. 
+Por ejemplo: un feature puede ser una función o colección de funciones que limpian los datos, otro feature es una función o colección de funciones que visualizan los datos, y otro feature es una función o colección de funciones que implementan un sistema de aprendizaje automático. 
             
 6. Pide ayuda si te trabas :) 
 
