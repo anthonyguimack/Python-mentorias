@@ -39,7 +39,7 @@ Tu reto es usar lo que aprendiste para limpiar, manipular y visualizar los datos
 1. Asegúrate de crear un "fork" de este repositorio https://aprendegit.com/fork-de-repositorios-para-que-sirve/
 2. Clona el repositorio en tu computadora local
 3. Crea una rama para tu trabajo, publica tu rama y crea un pull request https://abi.gitbook.io/net-core/tu-primer-aplicacion/integrando-tu-codigo-fuente-a-github/3.10.1-creando-ramas-en-github 
-4. Pide ayuda si te trabas:
+4. Pide ayuda si te trabas :) 
 
 ## Qué te recomiendo que instales y documentes
 
